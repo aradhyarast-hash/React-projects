@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif; 
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+button{
+  padding: 3px;
+  background-color: pink;
+  border-radius: 5px;
+  border: 2px solid black;
+  margin: 20px;
+  font-size: 30px;
+
+}
+
+input{
+  margin: 20px;
+  font-size: 30px;
+  padding: 5px;
+  border: 4px solid gray;
+  border-radius: 5px;
+}
+
+.page1{
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(242, 186, 195);
+}
+.page2{
+  height: 100vh;
+  width: 100%;
+  background-color: gray;
+}
+.page3{
+  height: 100vh;
+  width: 100%;
+  background-color: brown;
+}
